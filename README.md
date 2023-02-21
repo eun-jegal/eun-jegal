@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>Hi there! I'm Eun 👋</h2>
+<hr>
+- <i>Currently:</i> M.S in Human-Computer Interaction at University of Maryland
+- <i>Previously:</i> Android Developer at Samsung Electronics
